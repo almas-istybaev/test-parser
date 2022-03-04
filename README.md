@@ -4,7 +4,7 @@
 
 Написать функцию, которая на вход принимает текстовую строку – ту, которую мы печатаем в поисковую строку на сайте для поиска товара.
 
-Результат работы функции – многомерный массив (можно представить в виде таблицы), строки которого – это товары из интернет-магазина [https://b2b.autorus.ru/]
+Результат работы функции – многомерный массив (можно представить в виде таблицы), строки которого – это товары из интернет-магазина [https://b2b.site.name/]
 
 Каждый товар должен иметь следующие параметры: 
 ```
@@ -36,7 +36,7 @@
         "brand": "Mahle/Knecht",
         "count": "200",
         "time": "На складе",
-        "img": "https://pubimg-proxy.nodacdn.net/121998/images/mahle-knecht/oc90/full/00c653da3df1ce3ccbae1501857a64d08454720001.jpeg",
+        "img": "https://site.proxy/121998/images/mahle-knecht/oc90/full/00c653da3df1ce3ccbae1501857a64d08454720001.jpeg",
         "id": "22c223a7c41547a1cf85ada2bb2dcb7d",
     },
     {
@@ -46,7 +46,7 @@
         "brand": "GANZ",
         "count": "200",
         "time": "На складе",
-        "img": "https://pubimg-proxy.nodacdn.net/121998/images/ganz/gir01009/full/083bb9a666af72debb30d756d704314ab95db60001.jpeg",
+        "img": "https://site.proxy/121998/images/ganz/gir01009/full/083bb9a666af72debb30d756d704314ab95db60001.jpeg",
         "id": "f668bbddb90020727a63d870fb8fd672",
     },
 ]
